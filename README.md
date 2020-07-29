@@ -36,5 +36,5 @@ I am **Piyush Mahapatra** ,a 👨‍💻 MERN stack developer, an avid learner,.
 - Linkedin :[Piyush Mahapatra](https://www.linkedin.com/in/piyush-mahapatra-b28221195/)
 - Portfolio : [piyushmahapatra.dev](https://piyushmahapatra.dev)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=piyush-mahapatra-au6&show_icons=true)
+![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyush-mahapatra-au6&show_icons=true)
 
