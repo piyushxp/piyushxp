@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am **Piyush Mahapatra** ,a 👨‍💻 MERN stack developer, an avid learner,. I love creating Projects that helps to solve Problems and make the Wrold a better Place :) .My dream is to create Projects that works in the cross domain of Science and Softwares
+I am **Piyush Mahapatra** ,a 👨‍💻 MERN stack developer, and a Lifelong learner. I create  Projects that helps to solve Problems and make the world a better Place :) My dream is to make Projects that works in the cross domain of Science and Softwares
 
 - 🔭 I’m currently working on my **Capstone Project**
 - ⚡ I am documenting my learnings on my blog [piyushmahapatra.hashnode.dev](https://piyushmahapatra.hashnode.dev/)
