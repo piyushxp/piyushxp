@@ -19,7 +19,7 @@ I am **Piyush Mahapatra** ,a 👨‍💻 MERN stack developer, an avid learner,.
 
 - 🔭 I’m currently working on my **Capstone Project**
 - ⚡ I am documenting my learnings on my blog [piyushmahapatra.hashnode.dev](https://piyushmahapatra.hashnode.dev/)
-- 💬 I brainstorm Ideas :|
+- 💬 I like to brainstorm Ideas and do thought Experiments in my free time :)
 
 <code><img height='25' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></img></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
