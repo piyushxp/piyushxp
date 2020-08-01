@@ -37,6 +37,7 @@ I am **Piyush Mahapatra** ,a 👨‍💻 MERN stack developer, and a Lifelong le
 - Portfolio : [piyushmahapatra.dev](https://piyushmahapatra.dev)
 
 ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyush-mahapatra-au6&count_private=true&show_icons=true)
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-mahapatra-au6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
