@@ -30,7 +30,7 @@ I am **Piyush Mahapatra** ,a 👨‍💻 MERN stack developer, and a Lifelong le
 <code><img height='25' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></img></code>
 
 ### 📫 Contact me:
-- Portfolio : [piyushmahapatra.ml](https://http://piyushmahapatra.ml/
+- Portfolio : [piyushmahapatra.ml](https://http://piyushmahapatra.ml/)
 - Email : piyushmahapatra001@gmail.com
 - Twitter : [@piyushcodes](https://twitter.com/piyushcodes)
 - Linkedin :[Piyush Mahapatra](https://www.linkedin.com/in/piyush-mahapatra-b28221195/)
