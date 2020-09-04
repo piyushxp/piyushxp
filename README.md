@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I am **Piyush Mahapatra** ,a 👨‍💻 MERN stack developer, and a Lifelong learner. I create  Projects that helps to solve Problems and make the world a better Place :) My dream is to make Projects that works in the cross domain of Science and Softwares
 
 - 🔭 I’m currently working on my **Capstone Project**
-- ⚡ I am documenting my learnings on my blog [piyushmahapatra.hashnode.dev](https://piyushmahapatra.hashnode.dev/)
+- ⚡ I am documenting my learnings on my blog [piyushmahapatra.hashnode.dev](https://piyushmahapatra.ml/)
 - 💬 I like to brainstorm Ideas and do thought Experiments in my free time :)
 
 <code><img height='25' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></img></code>
@@ -30,11 +30,11 @@ I am **Piyush Mahapatra** ,a 👨‍💻 MERN stack developer, and a Lifelong le
 <code><img height='25' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></img></code>
 
 ### 📫 Contact me:
-
+- Portfolio : [piyushmahapatra.ml](https://http://piyushmahapatra.ml/
 - Email : piyushmahapatra001@gmail.com
 - Twitter : [@piyushcodes](https://twitter.com/piyushcodes)
 - Linkedin :[Piyush Mahapatra](https://www.linkedin.com/in/piyush-mahapatra-b28221195/)
-- Portfolio : [piyushmahapatra.dev](https://piyushmahapatra.dev)
+
 
 ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyush-mahapatra-au6&count_private=true&show_icons=true)
 ---
