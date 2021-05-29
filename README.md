@@ -38,7 +38,7 @@ I am **Piyush Mahapatra** ,a 👨‍💻 MERN stack developer, and a Lifelong le
 - Linkedin :[Piyush Mahapatra](www.linkedin.com/in/piyush99)
 
 
-![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyushok6&count_private=true&show_icons=true&theme=radical)
+![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyushok&count_private=true&show_icons=true&theme=radical)
 ---
 
 
