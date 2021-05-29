@@ -34,7 +34,7 @@ I am **Piyush Mahapatra** ,a 👨‍💻 MERN stack developer, and a Lifelong le
 ### 📫 Contact me:
 - Portfolio : [piyushdev.in](https://piyushmahapatra.ml/)
 - Email : piyushmahapatra001@gmail.com
-- Twitter : [@piyusok](https://twitter.com/piyushcodes)
+- Twitter : [@piyusok](https://twitter.com/piyushok)
 - Linkedin :[Piyush Mahapatra](www.linkedin.com/in/piyush99)
 
 
