@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am **Piyush Mahapatra** ,a 👨‍💻 MERN stack developer, and a Lifelong learner. I create  Projects that helps to solve Problems and make the world a better Place :) My dream is to make Projects that works in the cross domain of Science and Softwares
+I am **Piyush Mahapatra** ,a 👨‍💻 Software Developer, and a Lifelong learner. I have been working in MERN Stack and  my dream is to make projects that in the cross domain of Science and Softwares.
 
-- 🔭 I’m currently working on my **Capstone Project**
+- 🔭 I’m currently working as a Software Developer in **Tericsoft**
+- 🌱 I’m currently learning ReactNative and UI/UX
 - ⚡ I am documenting my learnings on my blog [piyushmahapatra.hashnode.dev](https://piyushmahapatra.ml/)
 - 💬 I like to brainstorm Ideas and do thought Experiments in my free time :)
 
@@ -36,7 +37,6 @@ I am **Piyush Mahapatra** ,a 👨‍💻 MERN stack developer, and a Lifelong le
 - Email : piyushmahapatra001@gmail.com
 - Twitter : [@piyusok](https://twitter.com/piyushok)
 - Linkedin :[Piyush Mahapatra](www.linkedin.com/in/piyush99)
-
 
 ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyushok&count_private=true&show_icons=true&theme=radical)
 ---
