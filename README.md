@@ -33,12 +33,12 @@ I am **Piyush Mahapatra** ,a 👨‍💻 Software Developer, and a Lifelong lear
 <code><img height='25' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></img></code>
 
 ### 📫 Contact me:
-- Portfolio : [piyushdev.in](https://piyushmahapatra.ml/)
+- Portfolio : [piyushdev.in](https://piyushdev.in/)
 - Email : piyushmahapatra001@gmail.com
-- Twitter : [@piyusok](https://twitter.com/piyushok)
+- Twitter : [@piyush_xp](https://twitter.com/piyush_xp)
 - Linkedin :[Piyush Mahapatra](www.linkedin.com/in/piyush99)
 
-![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyushok&count_private=true&show_icons=true&theme=radical)
+![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyushxp&count_private=true&show_icons=true&theme=radical)
 ---
 
 
