@@ -35,12 +35,13 @@ I am **Piyush Mahapatra** ,a 👨‍💻 Software Developer, and a Lifelong lear
 ### 📫 Contact me:
 - Portfolio : [piyushdev.in](https://piyushdev.in/)
 - Email : piyushmahapatra001@gmail.com
-
 - Twitter : [@piyush_xp](https://twitter.com/piyush_xp)
-- Linkedin :[Piyush Mahapatra](www.linkedin.com/in/piyush99)
+- Linkedin :[Piyush Mahapatra](https://www.linkedin.com/in/piyushxp/)
 
-- Codepen : [piyushxp](https://dribbble.com/piyushxp)
-- Dribbble : [piyushxp](https://dribbble.com/piyushxp)
+
+#### ⚡Showcase:
+ > Codepen : [piyushxp](https://codepen.io/piyushxp)
+ > Dribbble : [piyushxp](https://dribbble.com/piyushxp)
 
 ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyushxp&count_private=true&show_icons=true&theme=radical)
 ---
