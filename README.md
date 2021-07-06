@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-mahapatra-au6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -17,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am **Piyush Mahapatra** ,a 👨‍💻 Software Developer, and a Lifelong learner. I have been working in MERN Stack and  my dream is to make projects that in the cross domain of Science and Softwares.
+I am **Piyush Mahapatra** ,a passionate Software Developer, and a Lifelong learner. I have been working in MERN Stack and  my dream is to make projects that in the cross domain of Science and Softwares.
 
 - 🔭 I’m currently working as a Software Developer in **Tericsoft**
 - 🌱 I’m currently learning React Native
