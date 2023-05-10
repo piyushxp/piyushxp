@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I am **Piyush Mahapatra** ,a passionate Software Developer, and a Lifelong learner. I have been working in MERN Stack and  my dream is to make projects that in the cross domain of Science and Softwares.
 
-- 🔭 I’m currently working as a Software Developer in **Tericsoft**
+- 🔭 I’m currently working as a Software Developer in **Naehas-Zenarate**
 - 🌱 I’m currently learning React Native
 - ⚡ I am documenting my learnings on my blog [piyushmahapatra.hashnode.dev](https://piyushmahapatra.ml/)
 - 💬 I like to brainstorm Ideas and do thought Experiments in my free time :)
